@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Local config / generated files
+*.log
+product_label_preview.png
+compression_testing_machine_label.png
+
+# OS files
+.DS_Store
+Thumbs.db

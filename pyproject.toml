@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "niimbot-b1"
+version = "0.1.0"
+description = "Python BLE library for NIIMBOT B1 label printer"
+requires-python = ">=3.10"
+dependencies = [
+    "bleak",
+    "Pillow",
+    "qrcode[pil]",
+]
+
+[tool.setuptools]
+packages = ["niimbot_b1"]
