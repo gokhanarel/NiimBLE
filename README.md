@@ -31,3 +31,8 @@ e7810a71-73ae-499d-8c15-faa9aef0c3f2
 Characteristic UUID:
 bef8d6c9-9c21-4c9e-b632-bd58c1009f9f
 
+## Acknowledgements
+
+This library was developed by Gökhan Arel with assistance from ChatGPT by OpenAI.
+
+Special thanks to the open-source Python ecosystem, especially Bleak, Pillow, and qrcode.
